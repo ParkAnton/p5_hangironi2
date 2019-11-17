@@ -12,7 +12,7 @@ function draw(){
     // normalMaterial();
     rectMode(CENTER);
     translate(0,0);
-  pointLight(255,255,255,-200,0,100);
+//   pointLight(255,255,255,-200,0,100);
   
     push();
     rotateX(angle*0.1);
